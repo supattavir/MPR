@@ -9,6 +9,6 @@
 # Reference based-code from
 
 ```
-[TATT](https://github.com/mjq11302010044/TATT)https://github.com/mjq11302010044/TATT)
+[TATT](https://github.com/mjq11302010044/TATT)
 ```
 
